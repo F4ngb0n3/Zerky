@@ -10,8 +10,8 @@ To get your **Zerky**, simply follow the preparation steps below _( refer to the
 
 ### Steps
 1. Craft some **Salt**
-2. Grab your Rotten Flesh and your Salt and rub it into some Salted Rotten Flesh on a Crafting Table
-3. Toss your Salted Rotten Flesh into a Smoker, and kick back while your Zerky gets dried and heated to perfection!
+2. Grab your Rotten Flesh and your Salt and rub it into some _**Salted Rotten Flesh**_ on a **Crafting Table**
+3. Toss your Salted Rotten Flesh into a **Smoker**, and kick back while your **Zerky** gets dried and heated to perfection!
 ####  
 
 ### Recipes  
