@@ -29,7 +29,7 @@ The **Zerky** recipes are quite simple, and you too can be enjoying some delicio
 ####  
 | Empty | Empty | Empty |
 | ----- | ----------------- | ----- |
-| Empty | Salt | Empty |
+| Empty | Salt ( 5 ) | Empty |
 | Empty | Rotten Flesh | Empty |
 ####  
 
