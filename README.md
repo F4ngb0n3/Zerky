@@ -19,18 +19,18 @@ The **Zerky** recipes are quite simple, and you too can be enjoying some delicio
 
 **Salt Recipe**  
 ####  
-| Empty | Pointed Dripstone | Empty |
-| ----- | ----------------- | ----- |
-| Empty | Bowl | Empty |
 | Empty | Empty | Empty |
+| ----- | ----------------- | ----- |
+| Empty | Pointed Dripstone | Empty |
+| Empty | Bowl | Empty |
 ####  
 
 **Salted Flesh Recipe**
 ####  
-| Empty | Salt | Empty |
-| ----- | ----------------- | ----- |
-| Empty | Rotten Flesh | Empty |
 | Empty | Empty | Empty |
+| ----- | ----------------- | ----- |
+| Empty | Salt | Empty |
+| Empty | Rotten Flesh | Empty |
 ####  
 
 **Zerky Recipe**  
